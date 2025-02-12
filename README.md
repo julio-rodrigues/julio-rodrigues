@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=julio-rodrigues&style=for-the-badge" alt="julio-rodrigues" /> </p>
+
 <!--
 **julio-rodrigues/julio-rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
